@@ -43,5 +43,20 @@
         "id": 9,
         "name": "Pagani",
         "image": "https://www.carlogos.org/logo/Pagani-logo.png"
+    },
+    {
+        "id": 10,
+        "name": "Honda",
+        "image": "https://www.carlogos.org/logo/Honda-logo.png"
+    },
+    {
+        "id": 11,
+        "name": "McLaren",
+        "image": "https://www.carlogos.org/logo/McLaren-logo.png"
+    },
+    {
+        "id": 12,
+        "name": "Subaru",
+        "image": "https://www.carlogos.org/logo/Subaru-logo.png"
     }
 ]

@@ -84,7 +84,7 @@ class App extends Component {
 
     const style = {
       backgroundStyle: {
-        backgroundImage: 'url(https://hdwallsource.com/img/2020/6/tires-computer-wallpaper-70304-72683-hd-wallpapers.jpg)',
+        backgroundImage: 'url(https://hdwallsource.com/tires-widescreen-wallpaper-50154.html/tires-widescreen-wallpaper-50154)',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover'
       }
