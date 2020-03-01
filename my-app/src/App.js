@@ -57,12 +57,12 @@ class App extends Component {
       this.shuffleCards(images)
       
       // check score within game continuation
-      if (score === 9) {
+      if (score === 12) {
         alert("You win!")
         // reset state
         this.setState({
           currentScore: 0,
-          topScore: 9,
+          topScore: 12,
           chosenCards: []
         })
         // shuffle all cards
