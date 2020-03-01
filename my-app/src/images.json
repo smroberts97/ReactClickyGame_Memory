@@ -1,0 +1,47 @@
+[
+    { 
+        "id": 1, 
+        "name": "Ferrari",
+        "image": "https://www.carlogos.org/logo/Ferrari-logo.png"
+    },
+    {
+        "id": 2, 
+        "name": "Lamborghini",
+        "image": "https://www.carlogos.org/logo/Lamborghini-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Porsche",
+        "image": "https://www.carlogos.org/logo/Porsche-logo.png"
+    },
+    {
+        "id": 4,
+        "name": "Bugatti",
+        "image": "https://www.carlogos.org/logo/Bugatti-logo.png"
+    },
+    {
+        "id": 5,
+        "name": "Ford",
+        "image": "https://www.carlogos.org/logo/Ford-logo.png"
+    },
+    {
+        "id": 6,
+        "name": "Chevy",
+        "image": "https://www.carlogos.org/logo/Chevrolet-logo.png"
+    },
+    {
+        "id": 7,
+        "name": "Tesla",
+        "image": "https://www.carlogos.org/logo/Tesla-logo.png"
+    },
+    {
+        "id": 8,
+        "name": "Audi",
+        "image": "https://www.carlogos.org/logo/Audi-logo.png"
+    },
+    {
+        "id": 9,
+        "name": "Pagani",
+        "image": "https://www.carlogos.org/logo/Pagani-logo.png"
+    }
+]
